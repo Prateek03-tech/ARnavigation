@@ -1,0 +1,24 @@
+--> Using Markerless augmented reality in which we do not need any marker for putting computer generated object this kind of AR is used for location based apps
+
+
+Developing a navigation app for Android using augmented reality (AR) can be a complex process, but here are some general steps you can follow:
+
+Determine the navigation functionality: Determine the type of navigation functionality you want your app to have. For example, do you want to include turn-by-turn directions, voice navigation, or real-time traffic updates?
+
+Choose an AR SDK: Choose an AR software development kit (SDK) that is compatible with Android. There are many options available, such as Vuforia, ARCore, and Wikitude.
+
+Design the user interface: Design the user interface (UI) for the app, including how the AR overlay will be displayed. Consider what information will be displayed and how it will be organized.
+
+Build the AR functionality: Using the chosen AR SDK, build the AR functionality that will allow users to see the real world with overlaid navigational data.
+
+Integrate the navigation functionality: Integrate the navigation functionality with the AR functionality. This will require APIs from your chosen navigation service to be used with the AR SDK.
+
+Test the app: Test the app thoroughly to ensure that it is functioning as expected, both in the virtual and physical environments.
+
+Deploy the app: Deploy the app to the Google Play Store and make it available for download.
+
+Keep in mind that developing an AR navigation app for Android can be a complex process, so it may be helpful to seek the assistance of experienced developers or consult online resources for guidance.
+
+
+
+
